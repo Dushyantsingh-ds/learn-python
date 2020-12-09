@@ -6,11 +6,11 @@
 ### Using PowerShell
 -open PowerShell in Admin. mode
 -hit the command
-``` pip install python2 '''
+``` pip install python2 ```
 
 Confirm the installation
 -hit the command 
-``` python --version '''
+``` python --version ```
 you will see the python version
 
 if wilt'nt show, its mean installation did'nt sucessful
