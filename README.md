@@ -5,18 +5,23 @@
 ## install Python 
 ### Using PowerShell
 -open PowerShell in Admin. mode
+
 -hit the command
+
 ``` pip install python2 ```
 
 Confirm the installation
+
 -hit the command 
+
 ``` python --version ```
+
 you will see the python version
 
-if wilt'nt show, its mean installation did'nt sucessful
+if does'nt show, its mean installation did not sucessful setup.
 
 ### Using GUI
-Goto [python.org]9https://www.python.org/downloads/) offical website and download from there,
+Goto [python.org](https://www.python.org/downloads/) offical website and download from there,
 -Select your OS config.
 -downloading will start automaticly
 -install the setup and and check the all checkboxes
