@@ -125,6 +125,7 @@ output
 
 ``` 3 ```
 
+hit the commands
 ``` 3*5 ```
 
 output 
@@ -145,3 +146,38 @@ Extrnal  : we can install from external resouces. | Ex flask, numpy.....
 
 
 ### How to use an Module
+Aim : To play a .mp file
+hit the command in PS
+``` pip install playsound ```
+create a program in VS or hit the command in PS as REPL mode
+``` 
+import playsound 
+playsound("d:\\music\\shapeofyou.mp3")
+```
+output 
+
+Music will start
+
+### Why do we use pip 
+pip is a package-management system written in Python used to install and manage software packages. 
+
+It connects to an online repository of public and paid-for private packages, called the Python Package Index. 
+
+Most distributions of Python come with pip preinstalled
+
+### comments in python
+Two Type of comments in python
+
+Singal Line : used for siganl line comments | use # for singal comments  
+
+Ex : # Author: Dushyant Singh
+
+Multi Line : used for multi line comments | use pund three times pound (') symbull 
+
+Ex :  
+''' 
+Author : Dushyant Singh 
+Company: Truth Power Info '''
+
+
+
